@@ -64,4 +64,5 @@
  <element id="64" elementName="PR_Lip_SYNc" elementFolder="PR_Lip_SYNc" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="65" elementName="Eye_Sync" elementFolder="Eye_Sync" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="66" elementName="Cheeks" elementFolder="Cheeks" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="67" elementName="Collar" elementFolder="Collar.67" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
