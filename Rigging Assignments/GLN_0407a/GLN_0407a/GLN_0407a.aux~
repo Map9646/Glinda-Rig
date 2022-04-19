@@ -1,5 +1,5 @@
 <!DOCTYPE SceneVersion>
-<SceneVersion VersionName="GLN_0407a" Modified="2022-04-18 22:54:04" ID="1">
+<SceneVersion VersionName="GLN_0407a" Modified="2022-04-19 13:51:41" ID="1">
  <Element Name="Head" ID="1" Folder="Head">
   <Drawing Key="" Name="1" Version="1"/>
   <Drawing Key="" Name="2" Version="1"/>
@@ -48,9 +48,6 @@
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="Neck" ID="14" Folder="Neck">
-  <Drawing Key="" Name="1" Version="1"/>
- </Element>
- <Element Name="Collar" ID="15" Folder="Collar">
   <Drawing Key="" Name="1" Version="1"/>
  </Element>
  <Element Name="Skirt" ID="16" Folder="Skirt">
