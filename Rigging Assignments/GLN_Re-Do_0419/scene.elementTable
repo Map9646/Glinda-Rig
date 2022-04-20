@@ -61,7 +61,7 @@
  <element id="62" elementName="PR_Teeth_Bottom" elementFolder="PR_Teeth_Bottom" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="63" elementName="PR_Tongue" elementFolder="PR_Tongue" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="64" elementName="PR_Lip_SYNc" elementFolder="PR_Lip_SYNc" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
- <element id="65" elementName="Eye_Sync" elementFolder="Eye_Sync" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
+ <element id="65" elementName="Eye_Clone" elementFolder="Eye_Clone" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="66" elementName="Cheeks_Clone" elementFolder="Cheeks_Clone" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
  <element id="67" elementName="Collar" elementFolder="Collar.67" pixmapFormat="2" scanType="2" fieldChart="12" vectorType="2" rootFolder="elements"/>
 </elements>
